@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "HairCraftgit",
   "resources": {
-    "hash": "sha256-ivFp4p26T9SFIGh9BLaHVh9KiWPyEvgU4vOa8UVKDdo=",
+    "hash": "sha256-AG5z5yNxKVg0IYdwSCzzlnApSphvIRdqfHcH/4iMLRw=",
     "fingerprinting": {
-      "HairCraftgit.ht2zv82r11.wasm": "HairCraftgit.wasm",
+      "HairCraftgit.q6t0kyht2q.wasm": "HairCraftgit.wasm",
       "Microsoft.AspNetCore.Authorization.miumi3x3d4.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.Authorization.8opvz6k3s7.wasm": "Microsoft.AspNetCore.Components.Authorization.wasm",
       "Microsoft.AspNetCore.Components.7e89r2s3ys.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -76,7 +76,7 @@
       "System.Runtime.InteropServices.JavaScript.era55l3sbb.wasm": "sha256-uo4WQ39eiOB+w/weMzCVCfXQey09VlzpTm+e6aR83IA="
     },
     "assembly": {
-      "HairCraftgit.ht2zv82r11.wasm": "sha256-+4cjA7enaLbKWvphtv+OEGjl3pfM9fjA8qmNEeqTfaw=",
+      "HairCraftgit.q6t0kyht2q.wasm": "sha256-wj9iCqEaXfolKT6/wfXiARxgcnOoe9g/wJMyGZpvYeg=",
       "Microsoft.AspNetCore.Authorization.miumi3x3d4.wasm": "sha256-/lGmebPvAOERloWb4kB6LJdjVdLjF71fUwNgu0VAi2I=",
       "Microsoft.AspNetCore.Components.Authorization.8opvz6k3s7.wasm": "sha256-uG4XWSSP9kIg8r3RPNVemhR1aJCGsdo/aEXyUKLcPa4=",
       "Microsoft.AspNetCore.Components.7e89r2s3ys.wasm": "sha256-QapNmFMNS1e1aZIBfY2cQ5KpGIIcc2EC+jFQ7HAmBcs=",
